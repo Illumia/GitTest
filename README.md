@@ -1,2 +1,2 @@
 # GitTest
-Gitの練習用
+Gitの練習用です！
